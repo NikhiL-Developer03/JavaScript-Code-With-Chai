@@ -4,7 +4,7 @@ let animal = {
     leg : 3
 };
 
-// console.log(animal);
+console.log(animal);
 
 // for in...
 // for(let key in animal){
